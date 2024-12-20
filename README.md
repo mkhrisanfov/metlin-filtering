@@ -15,5 +15,8 @@ List of SMILES for 1299 potentially erroneous entries is available in `data/outp
 - output data `data/output/` and `reports/figures/`:
     - figures 
     - tables in CSV format
+### Model Architectures and Weights
+
+![Architecture of the models](reports/figures/models.png)
 
 Model weights will be made available later.
